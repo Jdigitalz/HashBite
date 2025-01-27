@@ -38,7 +38,7 @@ The following hashing algorithms are supported and guaranteed to work:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hashbite.git
+   git clone https://github.com/Jdigitalz/HashBite.git
    cd hashbite
 2. Install python libraries
    ```bash
